@@ -25,6 +25,7 @@ hr {
 #bon{
     margin: 0 auto;
     min-width: 400px;
+    max-width: 400px;
     background-color: #c4d1cf;
     border-radius: 15px;
     -moz-border-radius: 15px;
